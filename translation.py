@@ -22,7 +22,9 @@ In this bot, You can download any youtube video by sending url 😊
 <b><u>Show Thumbnail</u></b>
 ➠ " /showthumb " මේ command එක යැවීමෙන් ඔයාල ඇඩ් කරපු Thumbnail එක බලාගන්න පුලුවන් 🙂 
 
-Made by @naviya2 🇱🇰
+Thumnail කියන්නෙ File එක ලස්සන කරන්න මම දාන පොටෝ එක හොදේ 🤣🙏
+
+Made by @percy_jackson_4🇱🇰
 Support Group : @leosupportx 🇱🇰
 Updates Channel : @new_ehi 🇱🇰
 """
