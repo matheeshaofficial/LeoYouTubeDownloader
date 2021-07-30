@@ -1,29 +1,27 @@
-# Leo YouTube-Downloader
+# Cortana YouTube-Downloader
 <p align="center">
-  <img src="https://telegra.ph/file/0ed2a9164d62752f25aee.jpg"></p>
+  <img src="https://telegra.ph/file/877c0a76b9bf6abbbe984.jpg"></p>
 A simple YouTube downloader bot with permenent thumbnail support
 
 ```
-Scrapped some code from @SpEcHIDe's AnyDLBot Repository
+Scrapped some code from @SpEcHIDe's AnyDLBot Repository and LeoYoutubedownloader repo
 Please fork this repository don't import code
 Made with Python3
-(C) @Naviya2
-Copyright permission under GNU General Public License v3.0
-License -> https://github.com/Naviya2/LeoYouTubeDownloader/blob/main/LICENSE
+(C) @TeamCortana
 ```
 
 ### Deploy 
 
 Deploy on Heroku
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/Naviya2/LeoYouTubeDownloader">
+  <a href="https://heroku.com/deploy?template= https://github.com/TeamCortana/CortanaYTDL">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
 
 Deploy in your vps
 ```
-git clone https://github.com/Naviya2/YouTube-Downloader
+git clone https://github.com/TeamCortana/CortanaYTDL
 cd YouTube-Downloader
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -45,11 +43,13 @@ python3 bot.py
 
 ### Accounts
 
-* [GitHub](https://github.com/Naviya2)
-* [Telegram](https://telegram.me/naviya2)
+* [GitHub](https://github.com/PercyOfficial)
+* [Telegram](https://telegram.me/percy_jackson_4)
+* [Website](https://www.matheeshaofficial.tk)
 
 ### Credits
 
+* [Master Chief](https://github.com/PercyOfficial)
 * [Naviya](https://github.com/Naviya2)
 * [Shrimadhav UK](https://github.com/SpEcHIDe)
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
